@@ -1,0 +1,15 @@
+#genel{
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-box-align:center;
+}
+#kutu{
+    width:100px;
+    padding:60px;
+    margin:50px;
+    border:3px solid black;
+	background:-webkit-repeating-radial-gradient(black,yellow);    
+
+   <!--// background:-webkit-radial-gradient(10%,88&,circle,white,blue);-->
+<!--//background:-webkit-radial-gradient(circle,black  0%,yellow 50%);-->
+}

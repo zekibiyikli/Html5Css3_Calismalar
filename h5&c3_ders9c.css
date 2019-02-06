@@ -1,0 +1,6 @@
+* {margin:0px;padding:0px;}
+header,footer,article,hgroup,aside,section,nav {display:block;}
+body{text-align:center;
+display:-webkit-box;
+-webkit-box-pack:center;}
+#ana_kısım {width:1000px;margin:15px auto;padding:10px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-flex:1;border:2px solid red;}

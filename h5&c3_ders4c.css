@@ -1,0 +1,11 @@
+* {color:brown};
+
+tr>td {background-color:yellow;}
+
+tr>td[value="baslik"] {background-color:yellow;}
+
+tr:nth-child(5) {background-color:lightblue;}
+
+tr+tr{text-decoration:underline;}
+
+<!--td[value="icerik"]+td {}-->

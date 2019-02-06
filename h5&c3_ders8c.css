@@ -1,0 +1,4 @@
+#ana_makale {width:700px;margin:25px;float:left;}
+#banner_kısım {float:left;width:200px;margin:10px;padding:15px;background-color:yellow;}
+#banner_kısım p{font:bold 20px Calibri;text-decoration:blink;text-align:center;}
+#alt_kısım {clear:both;padding-10px;border-top:1px dashed red;text-align:center;}

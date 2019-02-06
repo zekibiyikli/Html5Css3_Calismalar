@@ -1,0 +1,18 @@
+#genel{
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-box-align:center;
+}
+#kutu{
+    width:100px;
+    padding:60px;
+    margin:50px;
+    border:3px solid black;
+	    -webkit-border-radius:10px;
+	   background:-webkit-repeating-linear-gradient(left,red,yellow);
+
+    <!--background:red;-->
+    <!--//background:-webkit-linear-gradient(left,red,yellow);-->
+        <!--//background:-webkit-linear-gradient(left,red,yellow,blue);-->
+       <!--// background:-webkit-linear-gradient(left,red 50%,yellow 50%);-->
+}
